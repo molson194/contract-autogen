@@ -1,0 +1,9 @@
+- service_y:
+  - request:
+    - endpoint: '/api'
+    -  method: 'GET'
+    -  params:
+    -  body:
+    response:
+    - status: 200
+    -  body: 'Yo Yo Yo.'
